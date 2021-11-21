@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pakar Channa</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="petunjuk"><b>Petunjuk Identifikasi Channa:</b> \n
+-> Klik tombol mulai diagnosis \n
+-> Pilih dengan yang paling sesuai</string>
+</resources>
